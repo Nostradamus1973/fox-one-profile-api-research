@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+*.tmp
+*.bak
+*.apk
+*.aab
+*.jar
+*.zip
+work/
+build/
+dist/
+.venv/
+__pycache__/
+secrets/
